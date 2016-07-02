@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\part_talkmsg.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\part_talkmsg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\acy_talks.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\acy_talks.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\line_friend.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\line_friend.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\acy_main.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\acy_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\acy_friends.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\acy_friends.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\acy_search.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\acy_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\build\\intermediates\\res\\merged\\debug\\layout\\line_search.xml",
+        "source": "D:\\AndroidStudio\\Document\\Asmack\\Demo\\res\\layout\\line_search.xml"
+    }
+]
